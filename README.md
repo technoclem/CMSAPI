@@ -308,4 +308,4 @@ GO
 - **Dapper:** Micro-ORM used for data access.
 - **Serilog:** Logging library for .NET applications.
 
-- The API follows a repository pattern for data access, encapsulating the database operations in a service layer. Also, logging in this API is implemented using Serilog, a flexible logging library for .NET applications. It provides structured logging capabilities and can be configured to write logs to various sinks, including files, databases, and more.
+The API follows a repository pattern for data access, encapsulating the database operations in a service layer. Also, logging in this API is implemented using Serilog, a flexible logging library for .NET applications. It provides structured logging capabilities and can be configured to write logs to various sinks, including files, databases, and more.
