@@ -6,7 +6,6 @@ Welcome to the Customer Management System API. This API allows you to perform CR
 
 - [Endpoints](#endpoints)
 - [Models](#models)
-- [Services](#services)
 - [Database Setup](#database-setup)
 - [Usage](#usage)
 - [Setup](#setup)
