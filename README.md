@@ -77,10 +77,9 @@ Welcome to the Customer Management System API. This API allows you to perform CR
 ## Database Setup
 ### SQL Server Setup
 - Ensure your SQL Server instance is set up with the following database and objects:
-    ```sql{
-             USE [CustomerDB]
+```sql
+USE [CustomerDB]
 GO
-
 /****** Object:  Table [dbo].[Customer]    Script Date: 13/07/2024 10:04:50 ******/
 SET ANSI_NULLS ON
 GO
@@ -293,7 +292,7 @@ BEGIN
 END;
 GO
 
-          }
+}
 
 ## Usage
 - To use the API, send HTTP requests to the specified endpoints with appropriate JSON payloads for POST requests. Ensure that the data sent complies with the model validations (e.g., maximum lengths, required fields).
