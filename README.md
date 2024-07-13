@@ -62,9 +62,9 @@ Welcome to the Customer Management System API. This API allows you to perform CR
 - **Method:** DELETE
 - **Description:** Deletes a customer by their Id.
 - **Parameters:**
-  ```{
+  ```
        Id (integer): Id of the customer to delete.
-     }
+  ``` 
 - **Response:** Returns 1 if successful, return 0 if the customer not exist, return -1 for error
 
 ## Models
